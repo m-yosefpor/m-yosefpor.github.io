@@ -1,3 +1,3 @@
 # website
 
-Check www.yosefpor.com
+Check https://m-yosefpor.github.io
